@@ -1,0 +1,15 @@
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\bin\Debug\net6.0\Задача8.exe
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\bin\Debug\net6.0\Задача8.deps.json
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\bin\Debug\net6.0\Задача8.runtimeconfig.json
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\bin\Debug\net6.0\Задача8.dll
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\bin\Debug\net6.0\Задача8.pdb
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\obj\Debug\net6.0\Задача8.csproj.AssemblyReference.cache
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\obj\Debug\net6.0\Задача8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\obj\Debug\net6.0\Задача8.AssemblyInfoInputs.cache
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\obj\Debug\net6.0\Задача8.AssemblyInfo.cs
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\obj\Debug\net6.0\Задача8.csproj.CoreCompileInputs.cache
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\obj\Debug\net6.0\Задача8.dll
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\obj\Debug\net6.0\refint\Задача8.dll
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\obj\Debug\net6.0\Задача8.pdb
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\obj\Debug\net6.0\Задача8.genruntimeconfig.cache
+C:\Users\Надежда\Downloads\C#ДЗ\Задача8\obj\Debug\net6.0\ref\Задача8.dll
