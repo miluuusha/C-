@@ -4,15 +4,15 @@
 // a = -9 b = -3 -> max = -3
 
 Console.WriteLine("Введите первое число: ");
-int num_A = int.Parse(Console.ReadLine()!);
+int numA = int.Parse(Console.ReadLine()!);
 
 Console.WriteLine("Введите второе число: ");
-int num_B = int.Parse(Console.ReadLine()!);
-if (num_A > num_B)
+int numB = int.Parse(Console.ReadLine()!);
+if (numA > numB)
      {
-         Console.WriteLine("Число " + num_A + " больше ");
+         Console.WriteLine("Число " + numA + " больше ");
      }
 else
      {
-         Console.WriteLine("Число " + num_B + " больше ");
+         Console.WriteLine("Число " + numB + " больше ");
      }
